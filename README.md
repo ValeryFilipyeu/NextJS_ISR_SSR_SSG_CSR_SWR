@@ -1,0 +1,1 @@
+# NextJS_ISR_SSR_SSG_CSR_SWR
